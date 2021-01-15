@@ -1,3 +1,3 @@
 # Lab: Getting started
 
-Code for Lab: Getting Started
+Code I wrote for my labwork in my Functional Programming module at the University of Warwick. 
